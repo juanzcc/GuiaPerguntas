@@ -1,5 +1,8 @@
 #  Guia De Perguntas
 
+## sobre o projeto
+Feito durante curso de nodeJs. Com o objetivo de ser um site estilo yahoo respostas porem com respostas e perguntas anonimas.
+
 # Autor
 
 Juan Zamarrenho Carvalho Correa
